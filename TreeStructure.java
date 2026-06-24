@@ -99,6 +99,26 @@ public class TreeStructure {
         return Math.max(root.data, Math.max(leftMax, rightMax));
     }
 
+    static int minData(Node root) {
+        if (root == null)
+            return Integer.MAX_VALUE;
+
+        int leftMin = minData(root.left);
+        int rightMin = minData(root.right);
+
+        return Math.min(root.data, Math.min(leftMin, rightMin));
+    }
+
+    static boolean isLeaf(Node root) {
+        if (root == null)
+            return false;
+
+        if (root.left == null && root.right == null)
+            return true;
+
+        return false;
+    }
+
     public static void main(String args[]) {
         Node root = new Node(5);
 
@@ -142,5 +162,12 @@ public class TreeStructure {
         System.out.println("NO. of Internal Node : " + internalNode(root));
 
         System.out.println("Max data is : " + maxdata(root));
+
+        System.out.println("Minimum element is the tree is : " + minData(root));
+
+        System.out.println("Solution of is leaf : " + isLeaf(root));
+        System.out.println("Solution of is leaf : " + isLeaf(root.left.left));
+        System.out.println("Solution of is leaf : " + isLeaf(root.left.left.left));
+        System.out.println("Solution of is leaf : " + isLeaf(root.left.right.right));
     }
 }
