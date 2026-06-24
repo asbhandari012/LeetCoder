@@ -57,3 +57,15 @@ I will continuously update this repository as I solve more LeetCode problems.
 
 
 Feel free to explore the solutions and suggest improvements.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/asbhandari012/LearnGitHub/tree/master/0205-isomorphic-strings) |
+## String
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/asbhandari012/LearnGitHub/tree/master/0205-isomorphic-strings) |
+<!---LeetCode Topics End-->
