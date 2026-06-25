@@ -14,7 +14,6 @@ class Solution {
                     otherCount++;
                 }
                 
-                // Majority element means it appears strictly more than half the time
                 if (targetCount > otherCount) {
                     ans++;
                 }
