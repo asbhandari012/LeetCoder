@@ -97,4 +97,5 @@ Feel free to explore the solutions and suggest improvements.
 |  |
 | ------- |
 | [0619-biggest-single-number](https://github.com/asbhandari012/LearnGitHub/tree/master/0619-biggest-single-number) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/asbhandari012/LearnGitHub/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 <!---LeetCode Topics End-->
