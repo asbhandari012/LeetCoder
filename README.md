@@ -93,4 +93,8 @@ Feel free to explore the solutions and suggest improvements.
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/asbhandari012/LearnGitHub/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Database
+|  |
+| ------- |
+| [0619-biggest-single-number](https://github.com/asbhandari012/LearnGitHub/tree/master/0619-biggest-single-number) |
 <!---LeetCode Topics End-->
