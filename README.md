@@ -64,6 +64,7 @@ Feel free to explore the solutions and suggest improvements.
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/asbhandari012/LearnGitHub/tree/master/0205-isomorphic-strings) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/asbhandari012/LearnGitHub/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/asbhandari012/LearnGitHub/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/asbhandari012/LearnGitHub/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
@@ -73,6 +74,7 @@ Feel free to explore the solutions and suggest improvements.
 ## Array
 |  |
 | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/asbhandari012/LearnGitHub/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/asbhandari012/LearnGitHub/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/asbhandari012/LearnGitHub/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -106,4 +108,8 @@ Feel free to explore the solutions and suggest improvements.
 | [0619-biggest-single-number](https://github.com/asbhandari012/LearnGitHub/tree/master/0619-biggest-single-number) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/asbhandari012/LearnGitHub/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1789-primary-department-for-each-employee](https://github.com/asbhandari012/LearnGitHub/tree/master/1789-primary-department-for-each-employee) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/asbhandari012/LearnGitHub/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
