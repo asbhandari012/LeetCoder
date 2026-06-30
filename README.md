@@ -63,6 +63,7 @@ Feel free to explore the solutions and suggest improvements.
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/asbhandari012/LearnGitHub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/asbhandari012/LearnGitHub/tree/master/0205-isomorphic-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/asbhandari012/LearnGitHub/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/asbhandari012/LearnGitHub/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -71,6 +72,7 @@ Feel free to explore the solutions and suggest improvements.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/asbhandari012/LearnGitHub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/asbhandari012/LearnGitHub/tree/master/0205-isomorphic-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/asbhandari012/LearnGitHub/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/asbhandari012/LearnGitHub/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -130,6 +132,7 @@ Feel free to explore the solutions and suggest improvements.
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/asbhandari012/LearnGitHub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/asbhandari012/LearnGitHub/tree/master/0209-minimum-size-subarray-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/asbhandari012/LearnGitHub/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
