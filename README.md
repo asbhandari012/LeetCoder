@@ -73,6 +73,7 @@ Feel free to explore the solutions and suggest improvements.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/asbhandari012/LearnGitHub/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0071-simplify-path](https://github.com/asbhandari012/LearnGitHub/tree/master/0071-simplify-path) |
 | [0205-isomorphic-strings](https://github.com/asbhandari012/LearnGitHub/tree/master/0205-isomorphic-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/asbhandari012/LearnGitHub/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/asbhandari012/LearnGitHub/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -139,4 +140,8 @@ Feel free to explore the solutions and suggest improvements.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/asbhandari012/LearnGitHub/tree/master/0209-minimum-size-subarray-sum) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/asbhandari012/LearnGitHub/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
