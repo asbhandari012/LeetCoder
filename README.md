@@ -83,6 +83,7 @@ Feel free to explore the solutions and suggest improvements.
 | [0209-minimum-size-subarray-sum](https://github.com/asbhandari012/LearnGitHub/tree/master/0209-minimum-size-subarray-sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/asbhandari012/LearnGitHub/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/asbhandari012/LearnGitHub/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/asbhandari012/LearnGitHub/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/asbhandari012/LearnGitHub/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/asbhandari012/LearnGitHub/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/asbhandari012/LearnGitHub/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -140,8 +141,25 @@ Feel free to explore the solutions and suggest improvements.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/asbhandari012/LearnGitHub/tree/master/0209-minimum-size-subarray-sum) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/asbhandari012/LearnGitHub/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Stack
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/asbhandari012/LearnGitHub/tree/master/0071-simplify-path) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/asbhandari012/LearnGitHub/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/asbhandari012/LearnGitHub/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/asbhandari012/LearnGitHub/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/asbhandari012/LearnGitHub/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
