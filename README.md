@@ -81,6 +81,7 @@ Feel free to explore the solutions and suggest improvements.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/asbhandari012/LearnGitHub/tree/master/0209-minimum-size-subarray-sum) |
+| [1470-shuffle-the-array](https://github.com/asbhandari012/LearnGitHub/tree/master/1470-shuffle-the-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/asbhandari012/LearnGitHub/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/asbhandari012/LearnGitHub/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/asbhandari012/LearnGitHub/tree/master/2812-find-the-safest-path-in-a-grid) |
