@@ -82,6 +82,7 @@ Feel free to explore the solutions and suggest improvements.
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/asbhandari012/LearnGitHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/asbhandari012/LearnGitHub/tree/master/0209-minimum-size-subarray-sum) |
+| [0905-sort-array-by-parity](https://github.com/asbhandari012/LearnGitHub/tree/master/0905-sort-array-by-parity) |
 | [1470-shuffle-the-array](https://github.com/asbhandari012/LearnGitHub/tree/master/1470-shuffle-the-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/asbhandari012/LearnGitHub/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/asbhandari012/LearnGitHub/tree/master/1929-concatenation-of-array) |
@@ -135,6 +136,7 @@ Feel free to explore the solutions and suggest improvements.
 ## Sorting
 |  |
 | ------- |
+| [0905-sort-array-by-parity](https://github.com/asbhandari012/LearnGitHub/tree/master/0905-sort-array-by-parity) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/asbhandari012/LearnGitHub/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sliding Window
 |  |
@@ -206,4 +208,5 @@ Feel free to explore the solutions and suggest improvements.
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/asbhandari012/LearnGitHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0905-sort-array-by-parity](https://github.com/asbhandari012/LearnGitHub/tree/master/0905-sort-array-by-parity) |
 <!---LeetCode Topics End-->
