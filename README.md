@@ -80,6 +80,7 @@ Feel free to explore the solutions and suggest improvements.
 ## Array
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/asbhandari012/LearnGitHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/asbhandari012/LearnGitHub/tree/master/0209-minimum-size-subarray-sum) |
 | [1470-shuffle-the-array](https://github.com/asbhandari012/LearnGitHub/tree/master/1470-shuffle-the-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/asbhandari012/LearnGitHub/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -144,6 +145,7 @@ Feel free to explore the solutions and suggest improvements.
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/asbhandari012/LearnGitHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/asbhandari012/LearnGitHub/tree/master/0209-minimum-size-subarray-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/asbhandari012/LearnGitHub/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/asbhandari012/LearnGitHub/tree/master/3620-network-recovery-pathways) |
@@ -200,4 +202,8 @@ Feel free to explore the solutions and suggest improvements.
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/asbhandari012/LearnGitHub/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/asbhandari012/LearnGitHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
