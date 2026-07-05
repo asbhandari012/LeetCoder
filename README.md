@@ -84,6 +84,7 @@ Feel free to explore the solutions and suggest improvements.
 | [0209-minimum-size-subarray-sum](https://github.com/asbhandari012/LearnGitHub/tree/master/0209-minimum-size-subarray-sum) |
 | [0905-sort-array-by-parity](https://github.com/asbhandari012/LearnGitHub/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/asbhandari012/LearnGitHub/tree/master/0922-sort-array-by-parity-ii) |
+| [1301-number-of-paths-with-max-score](https://github.com/asbhandari012/LearnGitHub/tree/master/1301-number-of-paths-with-max-score) |
 | [1470-shuffle-the-array](https://github.com/asbhandari012/LearnGitHub/tree/master/1470-shuffle-the-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/asbhandari012/LearnGitHub/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/asbhandari012/LearnGitHub/tree/master/1929-concatenation-of-array) |
@@ -177,6 +178,7 @@ Feel free to explore the solutions and suggest improvements.
 ## Matrix
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/asbhandari012/LearnGitHub/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/asbhandari012/LearnGitHub/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/asbhandari012/LearnGitHub/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
@@ -197,6 +199,7 @@ Feel free to explore the solutions and suggest improvements.
 ## Dynamic Programming
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/asbhandari012/LearnGitHub/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/asbhandari012/LearnGitHub/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
