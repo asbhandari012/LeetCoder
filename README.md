@@ -77,6 +77,7 @@ Feel free to explore the solutions and suggest improvements.
 | [0205-isomorphic-strings](https://github.com/asbhandari012/LearnGitHub/tree/master/0205-isomorphic-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/asbhandari012/LearnGitHub/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/asbhandari012/LearnGitHub/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/asbhandari012/LearnGitHub/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Array
 |  |
 | ------- |
@@ -121,6 +122,7 @@ Feel free to explore the solutions and suggest improvements.
 | [0209-minimum-size-subarray-sum](https://github.com/asbhandari012/LearnGitHub/tree/master/0209-minimum-size-subarray-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/asbhandari012/LearnGitHub/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/asbhandari012/LearnGitHub/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/asbhandari012/LearnGitHub/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Database
 |  |
 | ------- |
@@ -217,4 +219,8 @@ Feel free to explore the solutions and suggest improvements.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/asbhandari012/LearnGitHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0905-sort-array-by-parity](https://github.com/asbhandari012/LearnGitHub/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/asbhandari012/LearnGitHub/tree/master/0922-sort-array-by-parity-ii) |
+## Math
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/asbhandari012/LearnGitHub/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
