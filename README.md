@@ -245,6 +245,7 @@ Feel free to explore the solutions and suggest improvements.
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/asbhandari012/LearnGitHub/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/asbhandari012/LearnGitHub/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/asbhandari012/LearnGitHub/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Bit Manipulation
 |  |
@@ -254,4 +255,5 @@ Feel free to explore the solutions and suggest improvements.
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/asbhandari012/LearnGitHub/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/asbhandari012/LearnGitHub/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
