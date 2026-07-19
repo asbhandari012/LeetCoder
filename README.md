@@ -78,6 +78,7 @@ Feel free to explore the solutions and suggest improvements.
 | [0003-longest-substring-without-repeating-characters](https://github.com/asbhandari012/LearnGitHub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0071-simplify-path](https://github.com/asbhandari012/LearnGitHub/tree/master/0071-simplify-path) |
 | [0205-isomorphic-strings](https://github.com/asbhandari012/LearnGitHub/tree/master/0205-isomorphic-strings) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/asbhandari012/LearnGitHub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/asbhandari012/LearnGitHub/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/asbhandari012/LearnGitHub/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/asbhandari012/LearnGitHub/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -150,6 +151,7 @@ Feel free to explore the solutions and suggest improvements.
 ## Greedy
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/asbhandari012/LearnGitHub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/asbhandari012/LearnGitHub/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/asbhandari012/LearnGitHub/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
@@ -182,6 +184,7 @@ Feel free to explore the solutions and suggest improvements.
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/asbhandari012/LearnGitHub/tree/master/0071-simplify-path) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/asbhandari012/LearnGitHub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -276,4 +279,8 @@ Feel free to explore the solutions and suggest improvements.
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/asbhandari012/LearnGitHub/tree/master/3312-sorted-gcd-pair-queries) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/asbhandari012/LearnGitHub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
