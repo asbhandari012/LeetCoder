@@ -85,6 +85,7 @@ Feel free to explore the solutions and suggest improvements.
 ## Array
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/asbhandari012/LearnGitHub/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/asbhandari012/LearnGitHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/asbhandari012/LearnGitHub/tree/master/0209-minimum-size-subarray-sum) |
 | [0905-sort-array-by-parity](https://github.com/asbhandari012/LearnGitHub/tree/master/0905-sort-array-by-parity) |
@@ -266,6 +267,7 @@ Feel free to explore the solutions and suggest improvements.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/asbhandari012/LearnGitHub/tree/master/0137-single-number-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/asbhandari012/LearnGitHub/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Number Theory
 |  |
