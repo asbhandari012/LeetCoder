@@ -81,6 +81,7 @@ Feel free to explore the solutions and suggest improvements.
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/asbhandari012/LearnGitHub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/asbhandari012/LearnGitHub/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/asbhandari012/LearnGitHub/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/asbhandari012/LearnGitHub/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/asbhandari012/LearnGitHub/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Array
 |  |
@@ -149,6 +150,7 @@ Feel free to explore the solutions and suggest improvements.
 | ------- |
 | [1291-sequential-digits](https://github.com/asbhandari012/LearnGitHub/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/asbhandari012/LearnGitHub/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/asbhandari012/LearnGitHub/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Greedy
 |  |
 | ------- |
