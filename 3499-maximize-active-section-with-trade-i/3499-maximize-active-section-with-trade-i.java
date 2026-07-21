@@ -9,8 +9,8 @@ class Solution {
 
         String t = "1" + s + "1";
 
-        java.util.List<Integer> lengths = new java.util.ArrayList<>();
-        java.util.List<Character> types = new java.util.ArrayList<>();
+        List<Integer> lengths = new ArrayList<>();
+        List<Character> types = new ArrayList<>();
 
         int n = t.length();
         int i = 0;
