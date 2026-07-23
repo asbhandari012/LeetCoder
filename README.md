@@ -178,6 +178,7 @@ Feel free to explore the solutions and suggest improvements.
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/asbhandari012/LearnGitHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/asbhandari012/LearnGitHub/tree/master/0209-minimum-size-subarray-sum) |
+| [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/asbhandari012/LearnGitHub/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/asbhandari012/LearnGitHub/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/asbhandari012/LearnGitHub/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/asbhandari012/LearnGitHub/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -260,6 +261,7 @@ Feel free to explore the solutions and suggest improvements.
 ## Math
 |  |
 | ------- |
+| [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/asbhandari012/LearnGitHub/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/asbhandari012/LearnGitHub/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/asbhandari012/LearnGitHub/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/asbhandari012/LearnGitHub/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
