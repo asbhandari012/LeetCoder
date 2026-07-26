@@ -79,6 +79,7 @@ Feel free to explore the solutions and suggest improvements.
 | [0003-longest-substring-without-repeating-characters](https://github.com/asbhandari012/LearnGitHub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0071-simplify-path](https://github.com/asbhandari012/LearnGitHub/tree/master/0071-simplify-path) |
 | [0205-isomorphic-strings](https://github.com/asbhandari012/LearnGitHub/tree/master/0205-isomorphic-strings) |
+| [0345-reverse-vowels-of-a-string](https://github.com/asbhandari012/LearnGitHub/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/asbhandari012/LearnGitHub/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/asbhandari012/LearnGitHub/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/asbhandari012/LearnGitHub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -269,6 +270,7 @@ Feel free to explore the solutions and suggest improvements.
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/asbhandari012/LearnGitHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0345-reverse-vowels-of-a-string](https://github.com/asbhandari012/LearnGitHub/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/asbhandari012/LearnGitHub/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/asbhandari012/LearnGitHub/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0905-sort-array-by-parity](https://github.com/asbhandari012/LearnGitHub/tree/master/0905-sort-array-by-parity) |
