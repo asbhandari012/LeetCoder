@@ -92,6 +92,7 @@ Feel free to explore the solutions and suggest improvements.
 | [0137-single-number-ii](https://github.com/asbhandari012/LearnGitHub/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/asbhandari012/LearnGitHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/asbhandari012/LearnGitHub/tree/master/0209-minimum-size-subarray-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/asbhandari012/LearnGitHub/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/asbhandari012/LearnGitHub/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/asbhandari012/LearnGitHub/tree/master/0922-sort-array-by-parity-ii) |
 | [1288-remove-covered-intervals](https://github.com/asbhandari012/LearnGitHub/tree/master/1288-remove-covered-intervals) |
@@ -167,6 +168,7 @@ Feel free to explore the solutions and suggest improvements.
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/asbhandari012/LearnGitHub/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/asbhandari012/LearnGitHub/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/asbhandari012/LearnGitHub/tree/master/0922-sort-array-by-parity-ii) |
 | [1288-remove-covered-intervals](https://github.com/asbhandari012/LearnGitHub/tree/master/1288-remove-covered-intervals) |
@@ -272,6 +274,7 @@ Feel free to explore the solutions and suggest improvements.
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/asbhandari012/LearnGitHub/tree/master/0628-maximum-product-of-three-numbers) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/asbhandari012/LearnGitHub/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/asbhandari012/LearnGitHub/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/asbhandari012/LearnGitHub/tree/master/3312-sorted-gcd-pair-queries) |
