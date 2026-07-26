@@ -83,6 +83,7 @@ Feel free to explore the solutions and suggest improvements.
 | [0557-reverse-words-in-a-string-iii](https://github.com/asbhandari012/LearnGitHub/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/asbhandari012/LearnGitHub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/asbhandari012/LearnGitHub/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/asbhandari012/LearnGitHub/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/asbhandari012/LearnGitHub/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/asbhandari012/LearnGitHub/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/asbhandari012/LearnGitHub/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -186,6 +187,7 @@ Feel free to explore the solutions and suggest improvements.
 | [0209-minimum-size-subarray-sum](https://github.com/asbhandari012/LearnGitHub/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/asbhandari012/LearnGitHub/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/asbhandari012/LearnGitHub/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/asbhandari012/LearnGitHub/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Binary Search
 |  |
 | ------- |
