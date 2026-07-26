@@ -93,6 +93,7 @@ Feel free to explore the solutions and suggest improvements.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/asbhandari012/LearnGitHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/asbhandari012/LearnGitHub/tree/master/0209-minimum-size-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/asbhandari012/LearnGitHub/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/asbhandari012/LearnGitHub/tree/master/0643-maximum-average-subarray-i) |
 | [0905-sort-array-by-parity](https://github.com/asbhandari012/LearnGitHub/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/asbhandari012/LearnGitHub/tree/master/0922-sort-array-by-parity-ii) |
 | [1288-remove-covered-intervals](https://github.com/asbhandari012/LearnGitHub/tree/master/1288-remove-covered-intervals) |
@@ -183,6 +184,7 @@ Feel free to explore the solutions and suggest improvements.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/asbhandari012/LearnGitHub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/asbhandari012/LearnGitHub/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/asbhandari012/LearnGitHub/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/asbhandari012/LearnGitHub/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
 |  |
