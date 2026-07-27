@@ -324,4 +324,8 @@ Feel free to explore the solutions and suggest improvements.
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/asbhandari012/LearnGitHub/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/asbhandari012/LearnGitHub/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
