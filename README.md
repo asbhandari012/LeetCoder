@@ -274,6 +274,7 @@ Feel free to explore the solutions and suggest improvements.
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/asbhandari012/LearnGitHub/tree/master/0061-rotate-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/asbhandari012/LearnGitHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/asbhandari012/LearnGitHub/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/asbhandari012/LearnGitHub/tree/master/0541-reverse-string-ii) |
@@ -327,5 +328,6 @@ Feel free to explore the solutions and suggest improvements.
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/asbhandari012/LearnGitHub/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/asbhandari012/LearnGitHub/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
