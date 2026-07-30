@@ -96,6 +96,7 @@ Feel free to explore the solutions and suggest improvements.
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/asbhandari012/LearnGitHub/tree/master/0137-single-number-ii) |
+| [0162-find-peak-element](https://github.com/asbhandari012/LearnGitHub/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/asbhandari012/LearnGitHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/asbhandari012/LearnGitHub/tree/master/0209-minimum-size-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/asbhandari012/LearnGitHub/tree/master/0628-maximum-product-of-three-numbers) |
@@ -202,6 +203,7 @@ Feel free to explore the solutions and suggest improvements.
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/asbhandari012/LearnGitHub/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/asbhandari012/LearnGitHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/asbhandari012/LearnGitHub/tree/master/0209-minimum-size-subarray-sum) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/asbhandari012/LearnGitHub/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
