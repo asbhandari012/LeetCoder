@@ -68,6 +68,7 @@ Feel free to explore the solutions and suggest improvements.
 | [1331-rank-transform-of-an-array](https://github.com/asbhandari012/LearnGitHub/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/asbhandari012/LearnGitHub/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/asbhandari012/LearnGitHub/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/asbhandari012/LearnGitHub/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/asbhandari012/LearnGitHub/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/asbhandari012/LearnGitHub/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/asbhandari012/LearnGitHub/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -107,6 +108,7 @@ Feel free to explore the solutions and suggest improvements.
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/asbhandari012/LearnGitHub/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/asbhandari012/LearnGitHub/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/asbhandari012/LearnGitHub/tree/master/1470-shuffle-the-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/asbhandari012/LearnGitHub/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/asbhandari012/LearnGitHub/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/asbhandari012/LearnGitHub/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/asbhandari012/LearnGitHub/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -184,6 +186,7 @@ Feel free to explore the solutions and suggest improvements.
 | [1331-rank-transform-of-an-array](https://github.com/asbhandari012/LearnGitHub/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/asbhandari012/LearnGitHub/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/asbhandari012/LearnGitHub/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/asbhandari012/LearnGitHub/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/asbhandari012/LearnGitHub/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/asbhandari012/LearnGitHub/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/asbhandari012/LearnGitHub/tree/master/3536-maximum-product-of-two-digits) |
