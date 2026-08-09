@@ -107,6 +107,7 @@ Feel free to explore the solutions and suggest improvements.
 | [0643-maximum-average-subarray-i](https://github.com/asbhandari012/LearnGitHub/tree/master/0643-maximum-average-subarray-i) |
 | [0905-sort-array-by-parity](https://github.com/asbhandari012/LearnGitHub/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/asbhandari012/LearnGitHub/tree/master/0922-sort-array-by-parity-ii) |
+| [1140-stone-game-ii](https://github.com/asbhandari012/LearnGitHub/tree/master/1140-stone-game-ii) |
 | [1288-remove-covered-intervals](https://github.com/asbhandari012/LearnGitHub/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/asbhandari012/LearnGitHub/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/asbhandari012/LearnGitHub/tree/master/1331-rank-transform-of-an-array) |
@@ -158,6 +159,7 @@ Feel free to explore the solutions and suggest improvements.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/asbhandari012/LearnGitHub/tree/master/0209-minimum-size-subarray-sum) |
+| [1140-stone-game-ii](https://github.com/asbhandari012/LearnGitHub/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/asbhandari012/LearnGitHub/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/asbhandari012/LearnGitHub/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/asbhandari012/LearnGitHub/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -275,6 +277,7 @@ Feel free to explore the solutions and suggest improvements.
 ## Dynamic Programming
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/asbhandari012/LearnGitHub/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/asbhandari012/LearnGitHub/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/asbhandari012/LearnGitHub/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/asbhandari012/LearnGitHub/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -305,6 +308,7 @@ Feel free to explore the solutions and suggest improvements.
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/asbhandari012/LearnGitHub/tree/master/0628-maximum-product-of-three-numbers) |
+| [1140-stone-game-ii](https://github.com/asbhandari012/LearnGitHub/tree/master/1140-stone-game-ii) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/asbhandari012/LearnGitHub/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/asbhandari012/LearnGitHub/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/asbhandari012/LearnGitHub/tree/master/3312-sorted-gcd-pair-queries) |
@@ -350,4 +354,16 @@ Feel free to explore the solutions and suggest improvements.
 | ------- |
 | [0061-rotate-list](https://github.com/asbhandari012/LearnGitHub/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/asbhandari012/LearnGitHub/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/asbhandari012/LearnGitHub/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/asbhandari012/LearnGitHub/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/asbhandari012/LearnGitHub/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
