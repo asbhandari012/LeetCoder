@@ -63,6 +63,7 @@ Feel free to explore the solutions and suggest improvements.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/asbhandari012/LearnGitHub/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/asbhandari012/LearnGitHub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/asbhandari012/LearnGitHub/tree/master/0205-isomorphic-strings) |
 | [1331-rank-transform-of-an-array](https://github.com/asbhandari012/LearnGitHub/tree/master/1331-rank-transform-of-an-array) |
@@ -100,6 +101,7 @@ Feel free to explore the solutions and suggest improvements.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/asbhandari012/LearnGitHub/tree/master/0001-two-sum) |
 | [0137-single-number-ii](https://github.com/asbhandari012/LearnGitHub/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/asbhandari012/LearnGitHub/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/asbhandari012/LearnGitHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
