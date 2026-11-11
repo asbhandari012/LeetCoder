@@ -190,6 +190,7 @@ Feel free to explore the solutions and suggest improvements.
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/asbhandari012/LearnGitHub/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/asbhandari012/LearnGitHub/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/asbhandari012/LearnGitHub/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/asbhandari012/LearnGitHub/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Sorting
 |  |
 | ------- |
@@ -324,6 +325,7 @@ Feel free to explore the solutions and suggest improvements.
 | [3536-maximum-product-of-two-digits](https://github.com/asbhandari012/LearnGitHub/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/asbhandari012/LearnGitHub/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/asbhandari012/LearnGitHub/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/asbhandari012/LearnGitHub/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/asbhandari012/LearnGitHub/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3945-digit-frequency-score](https://github.com/asbhandari012/LearnGitHub/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
