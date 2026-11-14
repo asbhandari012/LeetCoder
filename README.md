@@ -66,6 +66,7 @@ Feel free to explore the solutions and suggest improvements.
 | [0001-two-sum](https://github.com/asbhandari012/LearnGitHub/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/asbhandari012/LearnGitHub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/asbhandari012/LearnGitHub/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/asbhandari012/LearnGitHub/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/asbhandari012/LearnGitHub/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/asbhandari012/LearnGitHub/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/asbhandari012/LearnGitHub/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -86,6 +87,7 @@ Feel free to explore the solutions and suggest improvements.
 | [0003-longest-substring-without-repeating-characters](https://github.com/asbhandari012/LearnGitHub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0071-simplify-path](https://github.com/asbhandari012/LearnGitHub/tree/master/0071-simplify-path) |
 | [0205-isomorphic-strings](https://github.com/asbhandari012/LearnGitHub/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/asbhandari012/LearnGitHub/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/asbhandari012/LearnGitHub/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/asbhandari012/LearnGitHub/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/asbhandari012/LearnGitHub/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -194,6 +196,7 @@ Feel free to explore the solutions and suggest improvements.
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/asbhandari012/LearnGitHub/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/asbhandari012/LearnGitHub/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/asbhandari012/LearnGitHub/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/asbhandari012/LearnGitHub/tree/master/0922-sort-array-by-parity-ii) |
