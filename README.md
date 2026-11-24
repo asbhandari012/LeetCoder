@@ -67,6 +67,7 @@ Feel free to explore the solutions and suggest improvements.
 | [0003-longest-substring-without-repeating-characters](https://github.com/asbhandari012/LearnGitHub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/asbhandari012/LearnGitHub/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/asbhandari012/LearnGitHub/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/asbhandari012/LearnGitHub/tree/master/0347-top-k-frequent-elements) |
 | [1331-rank-transform-of-an-array](https://github.com/asbhandari012/LearnGitHub/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/asbhandari012/LearnGitHub/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/asbhandari012/LearnGitHub/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -108,6 +109,7 @@ Feel free to explore the solutions and suggest improvements.
 | [0162-find-peak-element](https://github.com/asbhandari012/LearnGitHub/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/asbhandari012/LearnGitHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/asbhandari012/LearnGitHub/tree/master/0209-minimum-size-subarray-sum) |
+| [0347-top-k-frequent-elements](https://github.com/asbhandari012/LearnGitHub/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/asbhandari012/LearnGitHub/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/asbhandari012/LearnGitHub/tree/master/0643-maximum-average-subarray-i) |
 | [0905-sort-array-by-parity](https://github.com/asbhandari012/LearnGitHub/tree/master/0905-sort-array-by-parity) |
@@ -142,6 +144,7 @@ Feel free to explore the solutions and suggest improvements.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/asbhandari012/LearnGitHub/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/asbhandari012/LearnGitHub/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/asbhandari012/LearnGitHub/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -157,6 +160,7 @@ Feel free to explore the solutions and suggest improvements.
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/asbhandari012/LearnGitHub/tree/master/0347-top-k-frequent-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/asbhandari012/LearnGitHub/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/asbhandari012/LearnGitHub/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/asbhandari012/LearnGitHub/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -197,6 +201,7 @@ Feel free to explore the solutions and suggest improvements.
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/asbhandari012/LearnGitHub/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/asbhandari012/LearnGitHub/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/asbhandari012/LearnGitHub/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/asbhandari012/LearnGitHub/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/asbhandari012/LearnGitHub/tree/master/0922-sort-array-by-parity-ii) |
@@ -254,6 +259,7 @@ Feel free to explore the solutions and suggest improvements.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/asbhandari012/LearnGitHub/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/asbhandari012/LearnGitHub/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/asbhandari012/LearnGitHub/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/asbhandari012/LearnGitHub/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -376,4 +382,12 @@ Feel free to explore the solutions and suggest improvements.
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/asbhandari012/LearnGitHub/tree/master/1140-stone-game-ii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/asbhandari012/LearnGitHub/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/asbhandari012/LearnGitHub/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
